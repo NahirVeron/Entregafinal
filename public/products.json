@@ -1,0 +1,47 @@
+
+  [
+    {
+      "titulo": "Mochilas de paseo",
+      "imagen": "./img/imagen-1.png",
+      "precio": 15000
+    },
+    {
+      "titulo": "Stickers",
+      "imagen": "./img/imagen-2.png",
+      "precio": 5000
+    },
+    {
+      "titulo": "Taza Salchi",
+      "imagen": "./img/imagen-3.png",
+      "precio": 8000
+    },
+    {
+      "titulo": "Pecheras",
+      "imagen": "./img/imagen-4.jpg",
+      "precio": 18000
+    },
+    {
+      "titulo": "Collares paseo",
+      "imagen": "./img/imagen-5.jpg",
+      "precio": 10000
+    },
+    {
+      "titulo": "Ganchos de hojas",
+      "imagen": "./img/imagen-6.jpg",
+      "precio": 2000
+    },
+    {
+      "titulo": "Zapatillas All Salchi",
+      "imagen": "./img/imagen-7.jpg",
+      "precio": 54000
+    },
+    {
+      "titulo": "Acolchado Salchicha",
+      "imagen": "./img/imagen-8.jpg",
+      "precio": 40000
+    }
+  
+  
+]
+
+  
